@@ -914,3 +914,11 @@ wget ftp://mirror.switch.ch/pool/4/mirror/centos/7.3.1611/os/x86_64/Packages/eli
 man yum
 cat /etc/redhat-release
 cat /etc/os-release
+git init
+touch 1file.txt
+git add .
+git commit -m "first commit"
+git commit -M main
+git remote add origin https://github.com/Ashwini2707/1file.git
+git push -u origin main
+sudo git push -u origin main
