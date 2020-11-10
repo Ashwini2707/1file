@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "print line"
+echo -n "print 2 line"
+echo -e "\nadd \t div"
+

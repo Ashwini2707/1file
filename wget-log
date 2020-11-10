@@ -1,0 +1,74 @@
+Retrying.
+
+--2020-11-03 16:20:31--  ftp://mirror.switch.ch/pool/4/mirror/centos/7.3.1611/os/x86_64/Packages/elinks-0.12-0.36.pre6.el7.x86_64.rpm
+  (try: 9) => ‘elinks-0.12-0.36.pre6.el7.x86_64.rpm’
+Connecting to mirror.switch.ch (mirror.switch.ch)|2001:620:5ca1:2002:f816:3eff:fe95:a889|:21... failed: Resource temporarily unavailable.
+Connecting to mirror.switch.ch (mirror.switch.ch)|86.119.30.68|:21... failed: Resource temporarily unavailable.
+Retrying.
+
+--2020-11-03 16:21:22--  ftp://mirror.switch.ch/pool/4/mirror/centos/7.3.1611/os/x86_64/Packages/elinks-0.12-0.36.pre6.el7.x86_64.rpm
+  (try:10) => ‘elinks-0.12-0.36.pre6.el7.x86_64.rpm’
+Connecting to mirror.switch.ch (mirror.switch.ch)|2001:620:5ca1:2002:f816:3eff:fe95:a889|:21... failed: Resource temporarily unavailable.
+Connecting to mirror.switch.ch (mirror.switch.ch)|86.119.30.68|:21... failed: Resource temporarily unavailable.
+Retrying.
+
+--2020-11-03 16:22:14--  ftp://mirror.switch.ch/pool/4/mirror/centos/7.3.1611/os/x86_64/Packages/elinks-0.12-0.36.pre6.el7.x86_64.rpm
+  (try:11) => ‘elinks-0.12-0.36.pre6.el7.x86_64.rpm’
+Connecting to mirror.switch.ch (mirror.switch.ch)|2001:620:5ca1:2002:f816:3eff:fe95:a889|:21... failed: Resource temporarily unavailable.
+Connecting to mirror.switch.ch (mirror.switch.ch)|86.119.30.68|:21... failed: Resource temporarily unavailable.
+Retrying.
+
+--2020-11-03 16:23:06--  ftp://mirror.switch.ch/pool/4/mirror/centos/7.3.1611/os/x86_64/Packages/elinks-0.12-0.36.pre6.el7.x86_64.rpm
+  (try:12) => ‘elinks-0.12-0.36.pre6.el7.x86_64.rpm’
+Connecting to mirror.switch.ch (mirror.switch.ch)|2001:620:5ca1:2002:f816:3eff:fe95:a889|:21... failed: Resource temporarily unavailable.
+Connecting to mirror.switch.ch (mirror.switch.ch)|86.119.30.68|:21... failed: Resource temporarily unavailable.
+Retrying.
+
+--2020-11-05 17:57:17--  ftp://mirror.switch.ch/pool/4/mirror/centos/7.3.1611/os/x86_64/Packages/elinks-0.12-0.36.pre6.el7.x86_64.rpm
+  (try:13) => ‘elinks-0.12-0.36.pre6.el7.x86_64.rpm’
+Connecting to mirror.switch.ch (mirror.switch.ch)|2001:620:5ca1:2002:f816:3eff:fe95:a889|:21... failed: Resource temporarily unavailable.
+Connecting to mirror.switch.ch (mirror.switch.ch)|86.119.30.68|:21... failed: Resource temporarily unavailable.
+Retrying.
+
+--2020-11-05 17:58:09--  ftp://mirror.switch.ch/pool/4/mirror/centos/7.3.1611/os/x86_64/Packages/elinks-0.12-0.36.pre6.el7.x86_64.rpm
+  (try:14) => ‘elinks-0.12-0.36.pre6.el7.x86_64.rpm’
+Connecting to mirror.switch.ch (mirror.switch.ch)|2001:620:5ca1:2002:f816:3eff:fe95:a889|:21... failed: Resource temporarily unavailable.
+Connecting to mirror.switch.ch (mirror.switch.ch)|86.119.30.68|:21... failed: Resource temporarily unavailable.
+Retrying.
+
+--2020-11-05 17:59:01--  ftp://mirror.switch.ch/pool/4/mirror/centos/7.3.1611/os/x86_64/Packages/elinks-0.12-0.36.pre6.el7.x86_64.rpm
+  (try:15) => ‘elinks-0.12-0.36.pre6.el7.x86_64.rpm’
+Connecting to mirror.switch.ch (mirror.switch.ch)|2001:620:5ca1:2002:f816:3eff:fe95:a889|:21... failed: Resource temporarily unavailable.
+Connecting to mirror.switch.ch (mirror.switch.ch)|86.119.30.68|:21... failed: Resource temporarily unavailable.
+Retrying.
+
+--2020-11-05 17:59:53--  ftp://mirror.switch.ch/pool/4/mirror/centos/7.3.1611/os/x86_64/Packages/elinks-0.12-0.36.pre6.el7.x86_64.rpm
+  (try:16) => ‘elinks-0.12-0.36.pre6.el7.x86_64.rpm’
+Connecting to mirror.switch.ch (mirror.switch.ch)|2001:620:5ca1:2002:f816:3eff:fe95:a889|:21... failed: Resource temporarily unavailable.
+Connecting to mirror.switch.ch (mirror.switch.ch)|86.119.30.68|:21... failed: Resource temporarily unavailable.
+Retrying.
+
+--2020-11-05 18:00:45--  ftp://mirror.switch.ch/pool/4/mirror/centos/7.3.1611/os/x86_64/Packages/elinks-0.12-0.36.pre6.el7.x86_64.rpm
+  (try:17) => ‘elinks-0.12-0.36.pre6.el7.x86_64.rpm’
+Connecting to mirror.switch.ch (mirror.switch.ch)|2001:620:5ca1:2002:f816:3eff:fe95:a889|:21... failed: Resource temporarily unavailable.
+Connecting to mirror.switch.ch (mirror.switch.ch)|86.119.30.68|:21... failed: Resource temporarily unavailable.
+Retrying.
+
+--2020-11-05 18:01:37--  ftp://mirror.switch.ch/pool/4/mirror/centos/7.3.1611/os/x86_64/Packages/elinks-0.12-0.36.pre6.el7.x86_64.rpm
+  (try:18) => ‘elinks-0.12-0.36.pre6.el7.x86_64.rpm’
+Connecting to mirror.switch.ch (mirror.switch.ch)|2001:620:5ca1:2002:f816:3eff:fe95:a889|:21... failed: Resource temporarily unavailable.
+Connecting to mirror.switch.ch (mirror.switch.ch)|86.119.30.68|:21... failed: Resource temporarily unavailable.
+Retrying.
+
+--2020-11-05 18:02:29--  ftp://mirror.switch.ch/pool/4/mirror/centos/7.3.1611/os/x86_64/Packages/elinks-0.12-0.36.pre6.el7.x86_64.rpm
+  (try:19) => ‘elinks-0.12-0.36.pre6.el7.x86_64.rpm’
+Connecting to mirror.switch.ch (mirror.switch.ch)|2001:620:5ca1:2002:f816:3eff:fe95:a889|:21... failed: Resource temporarily unavailable.
+Connecting to mirror.switch.ch (mirror.switch.ch)|86.119.30.68|:21... failed: Resource temporarily unavailable.
+Retrying.
+
+--2020-11-05 18:03:21--  ftp://mirror.switch.ch/pool/4/mirror/centos/7.3.1611/os/x86_64/Packages/elinks-0.12-0.36.pre6.el7.x86_64.rpm
+  (try:20) => ‘elinks-0.12-0.36.pre6.el7.x86_64.rpm’
+Connecting to mirror.switch.ch (mirror.switch.ch)|2001:620:5ca1:2002:f816:3eff:fe95:a889|:21... failed: Resource temporarily unavailable.
+Connecting to mirror.switch.ch (mirror.switch.ch)|86.119.30.68|:21... failed: Resource temporarily unavailable.
+Giving up.
+

@@ -1,0 +1,10 @@
+#!/bin/bash
+RESULTS=$?
+if [ "$RESULTS" -eq "6" ]; then
+    RESULT_MSG="Success"
+    echo $RESULT_MSG
+else
+     RESULT_MSG="Fail"
+     echo $RESULT_MSG
+fi
+echo $RESULT_MSG
